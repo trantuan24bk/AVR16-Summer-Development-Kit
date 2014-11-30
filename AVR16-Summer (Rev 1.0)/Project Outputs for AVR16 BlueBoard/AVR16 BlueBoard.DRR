@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: AVR16 BlueBoard.PcbDoc   9/19/2014  11:27:03 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : AVR16 BlueBoard.TXT
+EIA File   : AVR16 BlueBoard.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          39               432.85 mm (17.04 Inch)
+T2        0.6mm (23.622mil)        Round          15               251.00 mm (9.88 Inch)
+T3        0.7mm (27.559mil)        Round          2                5.72 mm (0.22 Inch)
+T4        0.8mm (31.496mil)        Round          12               145.15 mm (5.71 Inch)
+T5        1mm (39.37mil)           Round          106              463.33 mm (18.24 Inch)
+---------------------------------------------------------------------------
+Totals                                            174              1298.04 mm (51.10 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
