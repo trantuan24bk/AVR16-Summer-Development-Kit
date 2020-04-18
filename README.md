@@ -3,7 +3,6 @@
 
 **What included?**
 - Programmer software: extreme burner avr
-- Onboard programmer firmware: usb51
 - USB driver: usbasp
 - Altium project design files
 
